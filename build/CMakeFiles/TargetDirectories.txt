@@ -1,3 +1,0 @@
-/home/lijian/workspace/zr300_data_reader/build/CMakeFiles/edit_cache.dir
-/home/lijian/workspace/zr300_data_reader/build/CMakeFiles/rebuild_cache.dir
-/home/lijian/workspace/zr300_data_reader/build/CMakeFiles/zr300_data_reader.dir
